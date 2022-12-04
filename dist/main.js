@@ -9,13 +9,17 @@ var Course;
     Course["Programacion"] = "Programacion Visual";
     Course["BaseDatos"] = "Base de Datos";
     Course["Metodologias"] = "Metodologias";
+    Course["Diseño"] = "Diseño de Interfaz";
 })(Course || (Course = {}));
 var Area;
 (function (Area) {
     Area["Desarrollo"] = "Desarrollo de Software";
     Area["Marketing"] = "Marketing";
     Area["Turismo"] = "Turismo";
+    Area["Diseño"] = "Diseño de Interfaz";
+    Area["Artes"] = "Artes Culinarias";
 })(Area || (Area = {}));
+var A
 function addStudent() {
     let currentStudent = {
         fullName: readFormHtml("fullName"),
