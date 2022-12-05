@@ -19,7 +19,7 @@ var Area;
     Area["Diseño"] = "Diseño de Interfaz";
     Area["Artes"] = "Artes Culinarias";
 })(Area || (Area = {}));
-var A
+
 function addStudent() {
     let currentStudent = {
         fullName: readFormHtml("fullName"),
